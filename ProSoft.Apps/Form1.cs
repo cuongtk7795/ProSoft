@@ -21,6 +21,11 @@ namespace ProSoft.Apps
 
         private void button1_Click(object sender, EventArgs e)
         {
+            CallAPIGetAccountAsync().Wait();
+        }
+
+        private async Task CallAPIGetAccountAsync()
+        {
             
         }
     }

@@ -8,5 +8,8 @@ namespace ProSoft.DTOs
 {
     public class AccountDTO
     {
+        public int Id { get; set; }
+        public string Code { get; set; }
+        public string Password { get; set; }
     }
 }

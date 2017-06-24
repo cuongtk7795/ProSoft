@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProSoft.DTOs;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -11,8 +12,8 @@ namespace ProSoft.Services.Controllers
     public class AccountController : ApiController
     {
         [HttpPost]
-        [Route("Get")]
-        public IHttpActionResult Get(int id, object dto)
+        [Route("Post")]
+        public IHttpActionResult Post(AccountDTO dtoAccount)
         {
             return Ok();
         }
