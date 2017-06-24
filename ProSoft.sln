@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProSoft.Services", "ProSoft
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProSoft.Apps", "ProSoft.Apps\ProSoft.Apps.csproj", "{5BAF787A-5FF4-4FB6-A650-E98A3A6DF38C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProSoft.DTOs", "ProSoft.DTOs\ProSoft.DTOs.csproj", "{9EE12683-83CB-417C-92A5-0330FF945092}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5BAF787A-5FF4-4FB6-A650-E98A3A6DF38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BAF787A-5FF4-4FB6-A650-E98A3A6DF38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BAF787A-5FF4-4FB6-A650-E98A3A6DF38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE12683-83CB-417C-92A5-0330FF945092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE12683-83CB-417C-92A5-0330FF945092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE12683-83CB-417C-92A5-0330FF945092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE12683-83CB-417C-92A5-0330FF945092}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

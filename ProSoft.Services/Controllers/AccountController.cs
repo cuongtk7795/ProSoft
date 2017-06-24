@@ -7,7 +7,6 @@ using System.Web.Http;
 
 namespace ProSoft.Services.Controllers
 {
-    [Authorize]
     [RoutePrefix("api/Account")]
     public class AccountController : ApiController
     {
