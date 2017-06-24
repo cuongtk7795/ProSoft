@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Module.Account")]
+[assembly: AssemblyTitle("ProSoft.Apps")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Module.Account")]
+[assembly: AssemblyProduct("ProSoft.Apps")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("12c1dd15-86de-483a-b363-188d473b6a96")]
+[assembly: Guid("5baf787a-5ff4-4fb6-a650-e98a3a6df38c")]
 
 // Version information for an assembly consists of the following four values:
 //
